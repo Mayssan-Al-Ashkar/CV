@@ -90,3 +90,14 @@ body {
   * {
     box-sizing: border-box;
   }
+
+  #certifications {
+    max-width: 850px;
+    margin: 20px auto;
+  }
+
+  #volunteer {
+    max-width: 850px;
+    margin: 20px auto;
+  }
+  
